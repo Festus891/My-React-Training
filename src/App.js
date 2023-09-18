@@ -26,6 +26,7 @@ import React from 'react'
 // import DataIndividualFetching from './component/React_Hook/useEffect_hook/DataIndividualFetching.js';
 // import FetchingDataOnClick from './component/React_Hook/useEffect_hook/FetchingDataOnClick.js';
 import UseReducer from './component/React_Hook/useReducer hook/UseReducer.js';
+import UseReducerTwo from './component/React_Hook/useReducer hook/useReducerTwo.js';
 
 
 
@@ -72,7 +73,8 @@ function App() {
         {/* <DataFetching /> */}
         {/* <DataIndividualFetching /> */}
         {/* <FetchingDataOnClick /> */}
-        <UseReducer />
+        {/* <UseReducer /> */}
+        <UseReducerTwo />
 
 
 
